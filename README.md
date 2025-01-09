@@ -7,11 +7,11 @@ I want to become a data scientist in the next few years 👨‍🔬, learn new t
 I love learning and trying newthings in programming! 🔥🔥🔥
 
 Tools:
-I am interested in Python 🐍 and C ⏩ and love using it for my daily coding ⏲️.
-I am using VSCode , Zed Editor and learning to use JetBrains IDE.
+I am interested in Python 🐍 and love using it for my daily coding ⏲️.
+I am using use JetBrains IDE 🍀
 
 - 🔭 I’m currently working on this page. ✔
 - 🌱 I’m currently learning Machine Learning. ✔
-- 📫 How to reach me: contact through emails, or manh pham (Linkedin)
+- 📫 How to reach me: contact through emails, or Mãnh Phạm (Linkedin)
 - 😄 Pronouns: He/Him ✔
 - ⚡ Fun fact: You can call me Si, that's what my family members always call me. ✔
